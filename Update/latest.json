@@ -1,5 +1,0 @@
-{
-  "version": "1.0.69",
-  "zip": "britex_update_v1.0.69.zip",
-  "changelog": "• Online aktualizace přes GitHub (z domu i z práce)\n• Kontrola o půlnoci a po probuzení z hibernace\n• Automatická obnova po neúspěšné aktualizaci"
-}
